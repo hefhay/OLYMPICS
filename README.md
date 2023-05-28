@@ -93,7 +93,7 @@ Page navigation buttons were created for easy navigation across the 3 pages.
 
 ![](navigation.png)
 
-You can interact with the report here
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMWJmNmFkOGUtYzJlMi00ZWY2LWIxZTQtYjRlNTkwYTY5YTIxIiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
 
 ![](interface.png)
 
