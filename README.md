@@ -53,27 +53,27 @@ The following measures were created;
 
 ![](athletes.png)
 
-3.	Male: total number of male athletes
+2.	Male: total number of male athletes
 
 ![](male.png)
 
-5.	Female: total number of female athletes
-6.	%male: percentage of male athletes
+3.	Female: total number of female athletes
+4.	%male: percentage of male athletes
 
 ![](% male.png)
 
-8.	%female: percentage of female athletes
-9.	Gold: Number of gold medal
+5.	%female: percentage of female athletes
+6.	Gold: Number of gold medal
 
 ![](gold.png)
 
-11.	Silver: number of silver medal
-12.	Bronze: number of bronze medal 
-13.	no of medals: total number of medals 
-14.	no of no medals: total number with no medals
-15.	dynamic selection of teams: dynamic selection of the top (1-5) teams with the highest number of medals
-16.	dynamic selection of events: dynamic selection of the top (1-5) events with the highest number of medals
-dynamic selection of athletes: dynamic selection of the top (1-5) athletes with the highest number of medals
+7.	Silver: number of silver medal
+8.	Bronze: number of bronze medal 
+9.	no of medals: total number of medals 
+10.	no of no medals: total number with no medals
+11.	dynamic selection of teams: dynamic selection of the top (1-5) teams with the highest number of medals
+12.	dynamic selection of events: dynamic selection of the top (1-5) events with the highest number of medals
+13. dynamic selection of athletes: dynamic selection of the top (1-5) athletes with the highest number of medals
 
 ![](dynamic.png)
 
@@ -93,6 +93,10 @@ Page navigation buttons were created for easy navigation across the 3 pages.
 
 ![](navigation.png)
 
+Toolpits was also used to generate more informations from the visualization
+
+![](toolpits.png)
+
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMWJmNmFkOGUtYzJlMi00ZWY2LWIxZTQtYjRlNTkwYTY5YTIxIiwidCI6ImI5NjBjM2ZmLWE4ODktNDQzOC05N2QwLTZlZjFiYTY2MzZhMiJ9)
 
 ![](interface.png)
@@ -106,12 +110,12 @@ N.B The insights generated below are the general information gotton from our dat
 
 ![](basic.png)
 
-6.	The total number of athletes differs between the 2 seasons. The summer season had between 10,000-11,200 number of athletes while the winter has between 2,000 and 3,000 athletes participating in the Olympics.
-7.	The top (1-5) countries with the highest number of medals were United States (G-700, S-519, B-412), Russia (G-320, S-270, B-355), Germany (G-284, S-238, B-299), Australia (G-186, S-262, B-247), China (G-283, S-190, B-182).
-8.	The top (1-5) athletes with the highest amount of medals were Micheal Fred Phelps from United States with 28 medals, Natalie Anne Coughing from United States with 12 medals, Ryan Steven Lochte from United States with 12 medals, Ole Einar Bjrndalen from United States with 11 medals and Marit Bjrgen from Norway with 10 medals.
-9.	The top (1-5) events with the highest number of medals were Men's ice hockey with 274 medals, Men's football with 257 medals, Women's football with 256 medals, Men's hockey with 245 medals, Women's hockey with 240 medals and Women's ice hockey with 240 medals.
-10.	There was no significant difference in the average age over the years.
-11.	The middle age group tends to perform more due to the fact that the have higher number of participants compared to other age groups.
+5.	The total number of athletes differs between the 2 seasons. The summer season had between 10,000-11,200 number of athletes while the winter has between 2,000 and 3,000 athletes participating in the Olympics.
+6.	The top (1-5) countries with the highest number of medals were United States (G-700, S-519, B-412), Russia (G-320, S-270, B-355), Germany (G-284, S-238, B-299), Australia (G-186, S-262, B-247), China (G-283, S-190, B-182).
+7.	The top (1-5) athletes with the highest amount of medals were Micheal Fred Phelps from United States with 28 medals, Natalie Anne Coughing from United States with 12 medals, Ryan Steven Lochte from United States with 12 medals, Ole Einar Bjrndalen from United States with 11 medals and Marit Bjrgen from Norway with 10 medals.
+8.	The top (1-5) events with the highest number of medals were Men's ice hockey with 274 medals, Men's football with 257 medals, Women's football with 256 medals, Men's hockey with 245 medals, Women's hockey with 240 medals and Women's ice hockey with 240 medals.
+9.	There was no significant difference in the average age over the years.
+10.	The middle age group tends to perform more due to the fact that the have higher number of participants compared to other age groups.
 
 ## RECOMMENDATION
 To further enrich our understanding of the Olympic Games and support evidence-based decision-making, it is crucial to continue collecting and analyzing comprehensive data. Olympic committees, governing bodies, and researchers should collaborate to establish standardized data collection protocols and share data openly. This will enable ongoing analysis, benchmarking, and the identification of emerging trends that can inform future policy-making and strategic planning.
