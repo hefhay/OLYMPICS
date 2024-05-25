@@ -5,7 +5,6 @@
 
 Welcome to the data analysis project report on the Olympics dataset. In this report, I explored and analyzed a comprehensive collection of data from various Olympic Games, spanning a significant period of time. The Olympics is the pinnacle of international sporting events, bringing together athletes from around the world to compete in a wide range of sports. By examining this rich dataset, we aim to uncover meaningful insights, patterns, and trends that can enhance our understanding of the Olympics and its impact on athletes, countries, and the world of sports.
 
-```formhfnc```
 
 The Olympics dataset provided a wealth of information, including details about participating countries, athletes, events, results, and historical context. This extensive dataset offers an excellent opportunity to delve into various aspects of the Olympic Games, such as medal distribution, participation trends, performance analysis, and much more. By conducting a thorough analysis of this dataset, I got valuable insights into the evolution of the Olympics over time, as well as identify factors that contribute to success in different sports disciplines.
 
